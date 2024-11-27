@@ -2,12 +2,12 @@
   "persons": [
     {
       "name": "Johnny Nurmi",
-      "number": "040-1234567",
+      "number": "4213432423424",
       "id": "1"
     },
     {
       "name": "Arto Hellas",
-      "number": "040-123456",
+      "number": "43224234324324",
       "id": "2"
     },
     {
@@ -19,16 +19,6 @@
       "name": "Dan Abramov",
       "number": "12-43-234345",
       "id": "4"
-    },
-    {
-      "name": "Mary Poppendieck",
-      "number": "39-23-6423122",
-      "id": "5"
-    },
-    {
-      "id": "10e7",
-      "name": "weffeefwefwfe",
-      "number": "212321231312"
     }
   ]
 }
