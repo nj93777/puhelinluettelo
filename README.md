@@ -13,4 +13,9 @@ Currently, two official plugins are available:
 ![Added](./src/assets/Added.png)
 ![Already](./src/assets/Already.png)
 ![AlreadyA](./src/assets/Already%20added%20again.png)
+![DeletedO](./src/assets/deleted%20ok.png)
+![Deleted](./src/assets/Deleted.png)
+![Search](./src/assets/Search.png)
+![Json](./src/assets/json.png)
+
 
