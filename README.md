@@ -11,4 +11,6 @@ Currently, two official plugins are available:
 # npm run dev
 
 ![Added](./src/assets/Added.png)
+![Already](./src/assets/Already.png)
+![AlreadyA](./src/assets/Already%20added%20again.png)
 
